@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Charming amintas:, or, The yieldling virgin to a pleasant new tune.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685-1688?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08737</idno>
+            <idno type="STC">Wing C3700</idno>
+            <idno type="STC">ESTC R232974</idno>
+            <idno type="EEBO-CITATION">64551084</idno>
+            <idno type="OCLC">ocm 64551084</idno>
+            <idno type="VID">184460</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08737)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184460)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2864:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Charming amintas:, or, The yieldling virgin to a pleasant new tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts), music.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby at the Golden Ball in Pye-corner,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1685 and 1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place and date range of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:184460:1"/>
+            <head>Charming AMINTAS: OR, <hi>The Yielding VIRGIN.</hi>
+            </head>
+            <opener>To a Pleaſant New Tune.</opener>
+            <p>This may be Printed.</p>
+            <p>
+               <figure>
+                  <figDesc>portrait</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>portrait</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> WHen firſt <hi>Amintas</hi> ſu'd for a Kiſs, </l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> my innocent Heart was tender;</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> That though I puſh'd him away from the bliſs,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> my Eyes declar'd my Heart was won:</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> I fain an awfull kindneſs wou'd uſe,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> before I the Fort did ſurrender:</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> But Love would ſuffer no more ſuch abuſe,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> and ſoon (alas) my Cheats was known:</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> He'd ſit all day, and laugh and play,</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> a thouſand pretty things he'd ſay:</l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> My hand he'd ſqueeze, and preſs my knees, </l>
+               <l>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap> till further on he got by degrees.</l>
+            </lg>
+            <pb facs="tcp:184460:1"/>
+            <p>
+               <figure>
+                  <figDesc>generic woodcut of woman and man</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>My heart juſt like a Veſſel at Sea,</l>
+               <l>Wou'd toſs when <hi>Amintas</hi> was near me;</l>
+               <l>But ah! ſo cunning a Pilot was he,</l>
+               <l>Through doubts and fears he'd ſtill ſail on,</l>
+               <l>I thought in him no danger cou'd be,</l>
+               <l>So wiſely he knew how to Steer me,</l>
+               <l>And ſoon alas! was brought to agree,</l>
+               <l>To tafie of Ioys before unknown:</l>
+               <l>Well might he boaſt, his pains not loſt,</l>
+               <l>For ſoon he ſound the Golden Coaſt;</l>
+               <l>Enjoy'd the Oar, and toucht the ſhore,</l>
+               <l>Where never Merchant went before.</l>
+            </lg>
+            <lg>
+               <l>Soft Bluſhes always came in my Face,</l>
+               <l>When ever <hi>Amintas</hi> drew near me;</l>
+               <l>He told me Roſes lookt with ſuch grace,</l>
+               <l>And pretty fair dazies when <hi>Summer</hi> comes on</l>
+               <l>He preſt me, kiſt me with ſo much love,</l>
+               <l>I could not deny him the Bleſſing:</l>
+               <l>And with ſuch ſweet Words my heart he did move</l>
+               <l>That ſoon I yielded to him alone.</l>
+               <l>So Violets by the Sun are won,</l>
+               <l>To ſpread their Leaves and be undone;</l>
+               <l>The heat does warm and ſweetly charm,</l>
+               <l>And makes young Maids forget all the harm.</l>
+            </lg>
+            <lg>
+               <l>A thouſand times that he would be true,</l>
+               <l>
+                  <hi>Amintas</hi> proteſted unto me;</l>
+               <l>He then his ſoft Kiſſes again wou'd renew,</l>
+               <l>So Balmy and ſweet, that I ſoon was we</l>
+               <l>With ſighs and vows he rais'd ſuch a fire,</l>
+               <l>That made my young heart to ſurrender:</l>
+               <l>And then by his Art he ſtill blew it up higher,</l>
+               <l>Till Maiden-doubts and fears were gone.</l>
+               <l>None could reſiſt when ever he lift,</l>
+               <l>So gently ſoft and ſweet he kiſt,</l>
+               <l>His Head he'd reſt upon my Breaſt,</l>
+               <l>And thoſe ſoft tender Pillows he be preſt,</l>
+            </lg>
+            <lg>
+               <l>The Marble ſtone will melt by degrees,</l>
+               <l>If often ſoft Dew doth drop on it;</l>
+               <l>
+                  <hi>Amintas</hi> he any Maiden might pleaſe,</l>
+               <l>To yield to his Arms, and like me to be wo</l>
+               <l>Could any reſiſt ſuch gentle ſoft charms,</l>
+               <l>Such vows, ſuch ſighs, and ſuch kiſſes?</l>
+               <l>Could any repine at ſo ſweet a Youths arms:</l>
+               <l>She ſure muſt yield, or elſe be a Drone.</l>
+               <l>We will not loſe no time in Rhime,</l>
+               <l>But ſay that Maidens in their prime:</l>
+               <l>Should for their Head take <hi>Tom</hi> or <hi>Ned,</hi>
+               </l>
+               <l>For Flint will break on Feather-Bed.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> P. Brooksby <hi>at the Golden Ball</hi> in Pye-corner.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
